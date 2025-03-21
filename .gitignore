@@ -1,0 +1,8 @@
+scripts/Inference/colab_to_Inference.py
+venv/pyvenv.cfg
+venv/bin/python
+venv/bin/python3
+venv/bin/python3.12
+proxy_server/.env
+proxy_server/server.log
+.vscode/settings.json
